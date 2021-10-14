@@ -18,7 +18,7 @@
     "addons": [],
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "https://github.com/mhdeiiking/te"
         }
     ],
     "formation": {
